@@ -1,4 +1,4 @@
-
+<!DOCTYPE HTML>
 <html>
     <head>
         <title>Spin-off of "Challenge: Write a Poem"</title>
